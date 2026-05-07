@@ -1,2 +1,0 @@
-# README.md
-Snaprix-privacy
